@@ -1,0 +1,9 @@
+{
+  "name": "Watermark",
+  "version": "1.0.0",
+  "description": "Watermark-app",
+  "main": "index.js",
+  "repository": "https://github.com/olszowskijacek/Watermark-app.git",
+  "author": "Jacek Olszowski <jacek.olszowski1@gmail.com>",
+  "license": "MIT"
+}
